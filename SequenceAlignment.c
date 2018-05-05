@@ -105,7 +105,7 @@ int main(void)
             }
         }
      /*Backtracking*/
-t    int m=1;  //The condition of end of loop
+    int m=1;  //The condition of end of loop
     int k=0;
     int i2;
     int flag=0;   //scores
